@@ -1,0 +1,734 @@
+﻿Log file open, 03/22/19 09:29:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TwistedMario
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.228s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemSteam'  - 0 instances of that module name found.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.22-13.29.15:646][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.22-13.29.15:646][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.22-13.29.15:646][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:646][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.22-13.29.15:646][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:646][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:646][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.22-13.29.15:646][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.22-13.29.15:647][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.22-13.29.15:648][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:648][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:662][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.22-13.29.15:662][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.22-13.29.15:663][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.22-13.29.15:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.22-13.29.15:665][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.22-13.29.15:666][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:666][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.22-13.29.15:667][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.22-13.29.15:667][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.22-13.29.15:667][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.22-13.29.15:696][  0]LogHAL: Display: Platform has ~ 16 GB [17092902912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.22-13.29.15:696][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.22-13.29.15:696][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.22-13.29.15:696][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:697][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.03.22-13.29.15:697][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.03.22-13.29.15:697][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.03.22-13.29.15:698][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.03.22-13.29.15:699][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.03.22-13.29.15:700][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.03.22-13.29.15:701][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.03.22-13.29.15:702][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-13.29.15:702][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.03.22-13.29.15:703][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.03.22-13.29.15:703][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.22-13.29.15:720][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.22-13.29.15:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.22-13.29.15:721][  0]LogInit: Computer: MARCUSLAPTOP
+[2019.03.22-13.29.15:721][  0]LogInit: User: MarcusDiDomizio
+[2019.03.22-13.29.15:721][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.22-13.29.15:721][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.22-13.29.15:722][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.22-13.29.15:722][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.22-13.29.15:722][  0]LogMemory: Process Physical Memory: 102.86 MB used, 102.86 MB peak
+[2019.03.22-13.29.15:723][  0]LogMemory: Process Virtual Memory: 93.35 MB used, 93.35 MB peak
+[2019.03.22-13.29.15:723][  0]LogMemory: Physical Memory: 7382.45 MB used,  8918.62 MB free, 16301.06 MB total
+[2019.03.22-13.29.15:723][  0]LogMemory: Virtual Memory: 4649.91 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.22-13.29.15:811][  0]LogInit: Using OS detected language (en-US).
+[2019.03.22-13.29.15:811][  0]LogInit: Using OS detected locale (en-CA).
+[2019.03.22-13.29.15:814][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.22-13.29.16:391][  0]LogStreaming: Display: Took  0.580s to InitEngineTextLocalization.
+[2019.03.22-13.29.16:448][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.22-13.29.16:448][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.22-13.29.16:647][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.22-13.29.16:660][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.22-13.29.16:660][  0]LogD3D11RHI:       128/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.03.22-13.29.16:886][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.03.22-13.29.16:886][  0]LogD3D11RHI:       1979/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.03.22-13.29.16:888][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.22-13.29.16:888][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.22-13.29.16:888][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.03.22-13.29.16:896][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.22-13.29.16:896][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.03.22-13.29.16:896][  0]LogWindows: EnumDisplayDevices:
+[2019.03.22-13.29.16:896][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.22-13.29.16:896][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.22-13.29.16:897][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.22-13.29.16:897][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.22-13.29.16:897][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.03.22-13.29.16:897][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.22-13.29.16:897][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.22-13.29.16:897][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2019.03.22-13.29.16:963][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.22-13.29.16:998][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.22-13.29.17:472][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.22-13.29.17:507][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.22-13.29.17:535][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.22-13.29.17:563][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.22-13.29.17:588][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.22-13.29.17:604][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.22-13.29.17:620][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.22-13.29.17:634][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.22-13.29.17:641][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:725][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-13.29.17:726][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.22-13.29.17:837][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.22-13.29.17:837][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.22-13.29.17:886][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.22-13.29.17:886][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.22-13.29.17:910][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.22-13.29.17:925][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.22-13.29.17:937][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.22-13.29.17:951][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.22-13.29.18:030][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.22-13.29.18:030][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.22-13.29.18:031][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.22-13.29.18:075][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Intermediate/Shaders/WorkingDirectory/14448/).
+[2019.03.22-13.29.18:076][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marcus Di Domizio/AppData/Local/Temp/UnrealShaderWorkingDir/2ED04684436A9616F2E002A20DA079E2/'.
+[2019.03.22-13.29.18:077][  0]LogXGEController: Cleaning working directory: C:/Users/Marcus Di Domizio/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.22-13.29.18:077][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.22-13.29.18:077][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.22-13.29.18:077][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.22-13.29.18:786][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.22-13.29.18:842][  0]LogDerivedDataCache: Loaded boot cache 0.06s 67MB C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.22-13.29.18:842][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.22-13.29.18:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.22-13.29.18:842][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.22-13.29.18:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.22-13.29.18:842][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.22-13.29.18:860][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.22-13.29.18:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.22-13.29.18:860][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.22-13.29.18:873][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.22-13.29.18:873][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.22-13.29.18:873][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.22-13.29.18:900][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.22-13.29.18:902][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.22-13.29.18:912][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.22-13.29.19:075][  0]LogAssetRegistry: FAssetRegistry took 0.0668 seconds to start up
+[2019.03.22-13.29.19:514][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.22-13.29.19:823][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.22-13.29.19:826][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.22-13.29.19:826][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.22-13.29.19:826][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.22-13.29.19:826][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.22-13.29.19:850][  0]LogNetVersion: TwistedMario 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1777631269)
+[2019.03.22-13.29.20:880][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.085034 seconds
+[2019.03.22-13.29.20:887][  0]LogUObjectArray: 39378 objects as part of root set at end of initial load.
+[2019.03.22-13.29.20:887][  0]LogUObjectAllocator: 6848232 out of 0 bytes used by permanent object pool.
+[2019.03.22-13.29.20:887][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.22-13.29.22:265][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.22-13.29.22:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.22-13.29.23:031][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.624 s
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: 
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: Ensure condition failed: MyOwnerWorld [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\ActorComponent.cpp] [Line: 1042]
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: 
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: Stack: 
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcb11974b8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: [Callstack] 0x00007ffca6fa4a47 UE4Editor-TwistedMario.dll!ACheckpoint::ACheckpoint() [c:\users\marcus di domizio\documents\github\twisted-mario\twistedmario\source\twistedmario\checkpoint.cpp:16]
+[2019.03.22-13.29.23:031][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcda268973 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcda5320a8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcda51819f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcda26e977 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcda8eca7e UE4Editor-Core.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcdaaa9e66 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd0985cfec UE4Editor-Projects.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd0985d2d4 UE4Editor-Projects.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ff693e283a1 UE4Editor.exe!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ff693e2dc6b UE4Editor.exe!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ff693e25783 UE4Editor.exe!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ff693e259ea UE4Editor.exe!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ff693e348da UE4Editor.exe!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ff693e3659a UE4Editor.exe!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd343a81f4 KERNEL32.DLL!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3464a251 ntdll.dll!UnknownFunction []
+[2019.03.22-13.29.23:032][  0]LogOutputDevice: Error: 
+[2019.03.22-13.29.23:038][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2019.03.22-13.29.23:521][  0]LogStats:                    SendNewReport -  0.483 s
+[2019.03.22-13.29.23:521][  0]LogStats:             FDebug::EnsureFailed -  1.114 s
+[2019.03.22-13.29.23:652][  0]SourceControl: Source control is disabled
+[2019.03.22-13.29.23:653][  0]SourceControl: Source control is disabled
+[2019.03.22-13.29.23:656][  0]SourceControl: Source control is disabled
+[2019.03.22-13.29.23:658][  0]SourceControl: Source control is disabled
+[2019.03.22-13.29.23:977][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.22-13.29.24:459][  0]LogEngine: Initializing Engine...
+[2019.03.22-13.29.24:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.22-13.29.24:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.22-13.29.24:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.22-13.29.24:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.22-13.29.25:234][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.22-13.29.25:247][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.22-13.29.25:274][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.22-13.29.25:746][  0]LogInit: FAudioDevice initialized.
+[2019.03.22-13.29.25:746][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.22-13.29.25:828][  0]LogDerivedDataCache: Saved boot cache 0.08s 67MB C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.22-13.29.25:837][  0]LogInit: Texture streaming: Enabled
+[2019.03.22-13.29.25:854][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.22-13.29.25:854][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1FB5C28A-48C4-CD03-D197-CCAE997F803F}
+[2019.03.22-13.29.25:867][  0]LogInit: Transaction tracking system initialized
+[2019.03.22-13.29.25:882][  0]BlueprintLog: New page: Editor Load
+[2019.03.22-13.29.25:952][  0]LocalizationService: Localization service is disabled
+[2019.03.22-13.29.27:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/' took 0.01s
+[2019.03.22-13.29.27:356][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.22-13.29.27:356][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.22-13.29.27:356][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.22-13.29.27:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.22-13.29.27:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.22-13.29.27:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.22-13.29.27:357][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.22-13.29.27:480][  0]SourceControl: Source control is disabled
+[2019.03.22-13.29.27:480][  0]Cmd: MAP LOAD FILE="C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Maps/IslandRacing_Final_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.22-13.29.27:480][  0]LightingResults: New page: Lighting Build
+[2019.03.22-13.29.27:482][  0]MapCheck: New page: Map Check
+[2019.03.22-13.29.27:482][  0]LightingResults: New page: Lighting Build
+[2019.03.22-13.29.27:775][  0]LogLinker: Warning: Can't find file '/Game/Maps/IslandRacing_Final_01_BuiltData'
+[2019.03.22-13.29.27:776][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/IslandRacing_Final_01_BuiltData' while loading C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Maps/IslandRacing_Final_01.umap.
+[2019.03.22-13.29.27:776][  0]LoadErrors: Error: /Game/Maps/IslandRacing_Final_01 : Can't find file for asset. /Game/Maps/IslandRacing_Final_01_BuiltData
+[2019.03.22-13.29.27:927][  0]LogLinker: Warning: Can't find file '/Game/Maps/IslandRacing_Final_01_BuiltData'
+[2019.03.22-13.29.27:927][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/IslandRacing_Final_01_BuiltData' while loading C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Maps/IslandRacing_Final_01.umap.
+[2019.03.22-13.29.27:927][  0]LoadErrors: Error: /Game/Maps/IslandRacing_Final_01 : Can't find file for asset. /Game/Maps/IslandRacing_Final_01_BuiltData
+[2019.03.22-13.29.28:019][  0]LogLinker: Warning: Can't find file '/Game/Maps/IslandRacing_Final_01_BuiltData'
+[2019.03.22-13.29.28:019][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/IslandRacing_Final_01_BuiltData' while loading NULL.
+[2019.03.22-13.29.28:020][  0]LogLinker: Warning: Can't find file '/Game/Maps/IslandRacing_Final_01_BuiltData'
+[2019.03.22-13.29.28:021][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/IslandRacing_Final_01_BuiltData' while loading NULL.
+[2019.03.22-13.29.29:995][  0]LogLinker: Warning: Can't find file '/Game/Maps/IslandRacing_Final_01_BuiltData'
+[2019.03.22-13.29.29:995][  0]LoadErrors: Failed to load /Game/Maps/IslandRacing_Final_01_BuiltData.IslandRacing_Final_01_BuiltData Referenced by PersistentLevel
+[2019.03.22-13.29.29:995][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/IslandRacing_Final_01_BuiltData' while loading NULL.
+[2019.03.22-13.29.29:995][  0]LoadErrors: Failed to load /Game/Maps/IslandRacing_Final_01_BuiltData.IslandRacing_Final_01_BuiltData Referenced by PersistentLevel
+[2019.03.22-13.29.30:595][  0]LogMaterial: Display: Missing cached shader map for material CobbleRoad_MAT, compiling. 
+[2019.03.22-13.29.31:041][  0]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.03.22-13.29.31:041][  0]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.03.22-13.29.31:041][  0]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.03.22-13.29.31:041][  0]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.03.22-13.29.31:041][  0]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.22-13.29.31:178][  0]LogAIModule: Creating AISystem for world IslandRacing_Final_01
+[2019.03.22-13.29.31:707][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.03.22-13.29.31:851][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.22-13.29.31:853][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.579ms to complete.
+[2019.03.22-13.29.31:853][  0]LogFileHelpers: Loading map 'IslandRacing_Final_01' took 4.372
+[2019.03.22-13.29.31:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-13.29.32:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-13.29.32:025][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-13.29.32:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-13.29.32:067][  0]LogCollectionManager: Loaded 0 collections in 0.001883 seconds
+[2019.03.22-13.29.32:088][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Collections/' took 0.01s
+[2019.03.22-13.29.32:088][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Developers/MarcusDiDomizio/Collections/' took 0.00s
+[2019.03.22-13.29.32:089][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Collections/' took 0.00s
+[2019.03.22-13.29.32:089][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.22-13.29.32:114][  0]LogContentBrowser: Native class hierarchy populated in 0.0256 seconds. Added 2651 classes and 611 folders.
+[2019.03.22-13.29.32:123][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.22-13.29.32:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:158][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:161][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-13.29.32:213][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.22-13.29.32:220][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.03.22-13.29.32:266][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.22-13.29.32:273][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.22-13.29.32:288][  0]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.22-13.29.32:473][  0]LogRenderer: Reallocating scene render targets to support 1032x516 Format 9 NumSamples 1 (Frame:1).
+[2019.03.22-13.29.32:808][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.22-13.29.32:808][  0]LogLoad: (Engine Initialization) Total time: 19.21 seconds
+[2019.03.22-13.29.32:808][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.22-13.29.32:933][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.03.22-13.29.32:955][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-13.29.32:984][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.22-13.29.33:826][  6]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.22-13.29.33:826][  6]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.22-13.29.33:868][  6]LogAssetRegistry: Asset discovery search completed in 14.8176 seconds
+[2019.03.22-13.29.33:873][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.22-13.29.33:873][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.03.22-13.29.34:005][  7]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.22-13.29.34:349][  9]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.22-13.29.35:768][ 28]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-13.29.35:842][ 28]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-13.29.37:384][ 75]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.22-13.29.46:071][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-13.29.46:238][309]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.03.22-13.29.46:303][309]Candidate modules for hot reload:
+[2019.03.22-13.29.46:303][309]  TwistedMario
+[2019.03.22-13.29.46:303][309]Launching UnrealBuildTool... [D:/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwistedMario,2286 Win64 Development -TargetType=Editor -Project="C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/TwistedMario.uproject" -canskiplink "C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/TwistedMario.uproject" ]
+[2019.03.22-13.29.46:307][309]Warning: Starting HotReload took  0.1s.
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: New page: Compilation - Mar 22, 2019, 5:29:57 AM
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Marcus Di Domizio\Documents\GitHub\Twisted-Mario).
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: Creating makefile for hot reloading TwistedMarioEditor (changes to module files)
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: Target is up to date
+[2019.03.22-13.29.57:606][567]CompilerResultsLog: Total build time: 10.58 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.03.22-13.29.57:606][567]LogMainFrame: MainFrame: Module compiling took 11.368 seconds
+[2019.03.22-13.29.57:670][567]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2652 classes and 613 folders.
+[2019.03.22-13.29.57:735][567]Display: HotReload took 11.5s.
+[2019.03.22-13.30.01:282][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Oct2736)
+[2019.03.22-13.30.04:757][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-13.30.06:887][793]MapCheck: New page: Map Check
+[2019.03.22-13.30.06:898][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-13.30.06:923][793]LightingResults: New page: Lighting Build - Mar 22, 2019, 5:30:06 AM
+[2019.03.22-13.30.07:118][793]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.22-13.30.07:468][793]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.22-13.30.07:516][793]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.22-13.30.09:083][793]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.22-13.30.09:083][793]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14448
+[2019.03.22-13.30.12:593][793]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.03.22-13.30.12:650][793]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.22-13.30.12:650][793]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.22-13.30.12:650][793]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.22-13.30.12:650][793]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.22-13.30.12:650][793]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.22-13.30.13:310][793]LogEditorBuildUtils: Build time 0:06
+[2019.03.22-13.30.13:431][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CobbleRoad_MAT, compiling. 
+[2019.03.22-13.30.13:465][794]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-13.30.13:465][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CobbleRoad_MAT, compiling. 
+[2019.03.22-13.30.13:488][794]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-13.30.38:557][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-13.32.07:239][635]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.07:239][635]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.07:239][635]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.07:711][649]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.08:479][672]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.08:479][672]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.08:479][672]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.09:173][693]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.09:868][714]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.09:868][714]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.09:868][714]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.10:683][738]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.11:394][759]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.11:394][759]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.11:394][759]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.12:319][787]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.12:792][801]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.12:792][801]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.12:792][801]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.13:589][824]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.14:224][843]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.14:224][843]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.14:224][843]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.15:722][888]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.16:123][900]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.16:123][900]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.16:123][900]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.16:588][914]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.17:662][946]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.17:662][946]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.17:662][946]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.18:819][981]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.19:321][996]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.19:321][996]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.19:321][996]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.20:513][ 32]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.20:998][ 46]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.20:998][ 46]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.20:998][ 46]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.21:492][ 61]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.21:891][ 73]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.22:554][ 93]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.22:554][ 93]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.22:554][ 93]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.23:266][114]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.23:266][114]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.23:266][114]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.24:072][137]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.24:547][151]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.24:547][151]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.24:547][151]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.24:964][163]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.25:791][188]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.25:791][188]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.25:791][188]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.26:157][199]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.26:969][223]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.26:969][223]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.26:969][223]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.27:599][242]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.28:790][279]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.28:790][279]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.28:790][279]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.29:103][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-13.32.29:107][286]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.29:803][309]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.29:803][309]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.29:803][309]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.30:087][316]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.30:489][329]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ground_Oct2718)
+[2019.03.22-13.32.30:624][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-13.32.30:835][334]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (RoadStraight)
+[2019.03.22-13.32.30:949][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-13.32.31:049][335]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.22-13.32.31:049][335]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.22-13.32.31:049][335]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.22-13.32.31:987][352]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.22-13.32.32:445][361]LogD3D11RHI: Error: D3DDevice failed CreateBuffer VB with ByteWidth=25152, BindFlags=0x1 Usage=2, CPUAccess=0x10000, MiscFlags=0x0
+[2019.03.22-13.32.32:445][361]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11VertexBuffer.cpp:83 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.03.22-13.32.32:445][361]LogD3D11RHI: [Aftermath] GDynamicRHI=000002619450E140, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.03.22-13.32.32:445][361]LogWindows: Windows GetLastError: The operation completed successfully. (0)

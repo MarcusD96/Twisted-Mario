@@ -1,0 +1,1595 @@
+﻿Log file open, 03/21/19 16:07:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TwistedMario
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.271062
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.094s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.21-20.07.21:746][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.21-20.07.21:746][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.21-20.07.21:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:746][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.21-20.07.21:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.21-20.07.21:747][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:747][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:749][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.21-20.07.21:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.21-20.07.21:750][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.21-20.07.21:750][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.21-20.07.21:750][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.21-20.07.21:767][  0]LogHAL: Display: Platform has ~ 16 GB [17092902912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.21-20.07.21:767][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.21-20.07.21:767][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.03.21-20.07.21:767][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.21-20.07.21:768][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.21-20.07.21:768][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Config/Windows/Engine.ini]
+[2019.03.21-20.07.21:768][  0]LogInit: Computer: MARCUSLAPTOP
+[2019.03.21-20.07.21:768][  0]LogInit: User: MarcusDiDomizio
+[2019.03.21-20.07.21:768][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.21-20.07.21:768][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.21-20.07.21:769][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.21-20.07.21:769][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.21-20.07.21:769][  0]LogMemory: Process Physical Memory: 102.65 MB used, 102.66 MB peak
+[2019.03.21-20.07.21:769][  0]LogMemory: Process Virtual Memory: 93.19 MB used, 93.19 MB peak
+[2019.03.21-20.07.21:769][  0]LogMemory: Physical Memory: 7779.38 MB used,  8521.68 MB free, 16301.06 MB total
+[2019.03.21-20.07.21:769][  0]LogMemory: Virtual Memory: 4649.91 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.21-20.07.21:792][  0]LogInit: Using OS detected language (en-US).
+[2019.03.21-20.07.21:792][  0]LogInit: Using OS detected locale (en-CA).
+[2019.03.21-20.07.21:792][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.21-20.07.22:166][  0]LogStreaming: Display: Took  0.375s to InitEngineTextLocalization.
+[2019.03.21-20.07.22:223][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.21-20.07.22:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.21-20.07.22:461][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.21-20.07.22:533][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.03.21-20.07.22:533][  0]LogD3D11RHI:       1979/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.21-20.07.22:543][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.21-20.07.22:543][  0]LogD3D11RHI:       128/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.21-20.07.22:546][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.21-20.07.22:546][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.21-20.07.22:546][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.21-20.07.22:579][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.21-20.07.22:579][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.03.21-20.07.22:579][  0]LogWindows: EnumDisplayDevices:
+[2019.03.21-20.07.22:579][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.21-20.07.22:579][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.21-20.07.22:580][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.21-20.07.22:580][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.21-20.07.22:580][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.03.21-20.07.22:580][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.21-20.07.22:580][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.21-20.07.22:580][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2019.03.21-20.07.22:633][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.21-20.07.22:666][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.21-20.07.22:983][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.21-20.07.22:995][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.21-20.07.23:007][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.21-20.07.23:019][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.21-20.07.23:031][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.21-20.07.23:044][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.21-20.07.23:055][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.21-20.07.23:068][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.21-20.07.23:072][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:147][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-20.07.23:148][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.21-20.07.23:207][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.21-20.07.23:207][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.21-20.07.23:231][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.21-20.07.23:231][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.21-20.07.23:244][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.21-20.07.23:256][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.21-20.07.23:269][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.21-20.07.23:282][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.21-20.07.23:327][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.21-20.07.23:327][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.21-20.07.23:327][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.21-20.07.23:369][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Intermediate/Shaders/WorkingDirectory/25020/).
+[2019.03.21-20.07.23:369][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marcus Di Domizio/AppData/Local/Temp/UnrealShaderWorkingDir/BADA3C4447DF83A17A4B00A1E10364BD/'.
+[2019.03.21-20.07.23:370][  0]LogXGEController: Cleaning working directory: C:/Users/Marcus Di Domizio/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.21-20.07.23:371][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.21-20.07.23:371][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.21-20.07.23:371][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.21-20.07.23:952][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.21-20.07.24:017][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.21-20.07.24:017][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.21-20.07.24:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.21-20.07.24:017][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.21-20.07.24:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.21-20.07.24:018][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.21-20.07.24:034][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.21-20.07.24:034][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.21-20.07.24:034][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.21-20.07.24:047][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.21-20.07.24:047][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.21-20.07.24:047][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.21-20.07.24:081][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.21-20.07.24:084][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.21-20.07.24:112][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.21-20.07.24:225][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2019.03.21-20.07.24:592][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.21-20.07.24:843][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.21-20.07.24:846][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.21-20.07.24:846][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.21-20.07.24:846][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.21-20.07.24:846][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.21-20.07.24:984][  0]LogNetVersion: TwistedMario 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1777631269)
+[2019.03.21-20.07.25:503][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.069261 seconds
+[2019.03.21-20.07.25:508][  0]LogUObjectArray: 39378 objects as part of root set at end of initial load.
+[2019.03.21-20.07.25:508][  0]LogUObjectAllocator: 6848224 out of 0 bytes used by permanent object pool.
+[2019.03.21-20.07.25:508][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.21-20.07.26:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.21-20.07.26:421][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.21-20.07.27:230][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.711 s
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: 
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: Ensure condition failed: MyOwnerWorld [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\ActorComponent.cpp] [Line: 1042]
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: 
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: Stack: 
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffca5d374b8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcdc373ff7 UE4Editor-TwistedMario.dll!ACheckpoint::ACheckpoint() [c:\users\marcus di domizio\documents\github\twisted-mario\twistedmario\source\twistedmario\checkpoint.cpp:16]
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc85f8973 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc88c20a8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc88a819f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc85fe977 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc6aeca7e UE4Editor-Core.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc6ca9e66 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd0783cfec UE4Editor-Projects.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd0783d2d4 UE4Editor-Projects.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6738783a1 UE4Editor.exe!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ff67387dc6b UE4Editor.exe!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ff673875783 UE4Editor.exe!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6738759ea UE4Editor.exe!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6738848da UE4Editor.exe!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ff67388659a UE4Editor.exe!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd343a81f4 KERNEL32.DLL!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3464a251 ntdll.dll!UnknownFunction []
+[2019.03.21-20.07.27:230][  0]LogOutputDevice: Error: 
+[2019.03.21-20.07.27:238][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2019.03.21-20.07.27:776][  0]LogStats:                    SendNewReport -  0.538 s
+[2019.03.21-20.07.27:776][  0]LogStats:             FDebug::EnsureFailed -  1.257 s
+[2019.03.21-20.07.28:005][  0]SourceControl: Source control is disabled
+[2019.03.21-20.07.28:006][  0]SourceControl: Source control is disabled
+[2019.03.21-20.07.28:031][  0]SourceControl: Source control is disabled
+[2019.03.21-20.07.28:045][  0]SourceControl: Source control is disabled
+[2019.03.21-20.07.28:719][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.21-20.07.29:118][  0]LogEngine: Initializing Engine...
+[2019.03.21-20.07.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.21-20.07.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.21-20.07.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.21-20.07.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.21-20.07.29:395][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.21-20.07.29:483][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.21-20.07.29:531][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.21-20.07.29:906][  0]LogInit: FAudioDevice initialized.
+[2019.03.21-20.07.29:907][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.21-20.07.29:993][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Marcus Di Domizio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.21-20.07.30:001][  0]LogInit: Texture streaming: Enabled
+[2019.03.21-20.07.30:055][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.21-20.07.30:087][  0]LogInit: Transaction tracking system initialized
+[2019.03.21-20.07.30:179][  0]BlueprintLog: New page: Editor Load
+[2019.03.21-20.07.30:549][  0]LocalizationService: Localization service is disabled
+[2019.03.21-20.07.31:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/' took 0.01s
+[2019.03.21-20.07.31:800][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.21-20.07.31:800][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.21-20.07.31:800][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.21-20.07.31:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.21-20.07.31:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.21-20.07.31:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.21-20.07.31:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.21-20.07.32:336][  0]SourceControl: Source control is disabled
+[2019.03.21-20.07.32:337][  0]Cmd: MAP LOAD FILE="C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Maps/IslandRacing_Final_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.21-20.07.32:340][  0]LightingResults: New page: Lighting Build
+[2019.03.21-20.07.32:355][  0]MapCheck: New page: Map Check
+[2019.03.21-20.07.32:355][  0]LightingResults: New page: Lighting Build
+[2019.03.21-20.07.32:933][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.32:933][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Models/Ground_Oct.uasset.
+[2019.03.21-20.07.32:933][  0]LoadErrors: Error: /Game/Models/Ground_Oct : Can't find file for asset. /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT
+[2019.03.21-20.07.32:933][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.32:934][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Models/Ground_Oct.uasset.
+[2019.03.21-20.07.32:934][  0]LoadErrors: Error: /Game/Models/Ground_Oct : Can't find file for asset. /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT
+[2019.03.21-20.07.32:941][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.32:942][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Models/RoadStraight.uasset.
+[2019.03.21-20.07.32:942][  0]LoadErrors: Error: /Game/Models/RoadStraight : Can't find file for asset. /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT
+[2019.03.21-20.07.32:942][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.32:942][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Models/RoadStraight.uasset.
+[2019.03.21-20.07.32:942][  0]LoadErrors: Error: /Game/Models/RoadStraight : Can't find file for asset. /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT
+[2019.03.21-20.07.34:274][  0]LogTexture: Display: Building textures: BluePresent (AutoDXT, 2048X2048)
+[2019.03.21-20.07.34:274][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.34:275][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by RoadStraight
+[2019.03.21-20.07.34:276][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading NULL.
+[2019.03.21-20.07.34:276][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by RoadStraight
+[2019.03.21-20.07.34:276][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.34:276][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by RoadStraight
+[2019.03.21-20.07.34:276][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading NULL.
+[2019.03.21-20.07.34:276][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by RoadStraight
+[2019.03.21-20.07.34:278][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.34:278][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by Ground_Oct
+[2019.03.21-20.07.34:278][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading NULL.
+[2019.03.21-20.07.34:278][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by Ground_Oct
+[2019.03.21-20.07.34:278][  0]LogLinker: Warning: Can't find file '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT'
+[2019.03.21-20.07.34:278][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by Ground_Oct
+[2019.03.21-20.07.34:279][  0]LogLinker: Warning: Can't find file for asset '/Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT' while loading NULL.
+[2019.03.21-20.07.34:279][  0]LoadErrors: Failed to load /Game/IslandJumper/3D_Assets/Island/Levels/Ocampo_Mark/Ocampo_Mark/Materials/CobbleRoad_MAT.CobbleRoad_MAT Referenced by Ground_Oct
+[2019.03.21-20.07.34:952][  0]LogTexture: Display: Building textures: TealPresent (BC5, 2048X2048)
+[2019.03.21-20.07.34:952][  0]LogTexture: Display: Building textures: NormalSnow (AutoDXT, 2048X2048)
+[2019.03.21-20.07.34:952][  0]LogTexture: Display: Building textures: SnowyChristmasLeafy_N (BC5, 2048X2048)
+[2019.03.21-20.07.35:315][  0]LogTexture: Display: Building textures: NormalSnow_N (BC5, 2048X2048)
+[2019.03.21-20.07.35:315][  0]LogTexture: Display: Building textures: SnowyChristmasLeafy (AutoDXT, 2048X2048)
+[2019.03.21-20.07.35:315][  0]LogTexture: Display: Building textures: PurplePresent (AutoDXT, 2048X2048)
+[2019.03.21-20.07.36:727][  0]LogTexture: Display: Building textures: RedPresent (AutoDXT, 2048X2048)
+[2019.03.21-20.07.36:727][  0]LogTexture: Display: Building textures: GreenPresent (AutoDXT, 2048X2048)
+[2019.03.21-20.07.36:727][  0]LogTexture: Display: Building textures: LightPost_N (BC5, 2048X2048)
+[2019.03.21-20.07.36:728][  0]LogTexture: Display: Building textures: LightPost (AutoDXT, 2048X2048)
+[2019.03.21-20.07.36:734][  0]LogMaterial: Display: Missing cached shader map for material PresentPurple, compiling. 
+[2019.03.21-20.07.37:774][  0]LogTexture: Display: Building textures: SnowyCobblePath_N (BC5, 2048X2048)
+[2019.03.21-20.07.37:774][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.21-20.07.37:774][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.21-20.07.37:774][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.21-20.07.37:774][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.21-20.07.37:774][  0]LogTexture: Display: Building textures: SnowyCobblePath02 (AutoDXT, 2048X2048)
+[2019.03.21-20.07.37:774][  0]LogTexture: Display: Building textures: SuperChristmastree (AutoDXT, 2048X2048)
+[2019.03.21-20.07.37:774][  0]LogTexture: Display: Building textures: SnowySwish_N (BGRA8, 2043X2043)
+[2019.03.21-20.07.37:779][  0]LogMaterial: Display: Missing cached shader map for material PresentGreen, compiling. 
+[2019.03.21-20.07.37:837][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.21-20.07.37:837][  0]LogMaterial: Display: Missing cached shader map for material PresentCyan, compiling. 
+[2019.03.21-20.07.37:882][  0]LogMaterial: Display: Missing cached shader map for material PresentBlue, compiling. 
+[2019.03.21-20.07.37:934][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.03.21-20.07.38:005][  0]LogTexture: Display: Building textures: SnowySwish (BGRA8, 2043X2043)
+[2019.03.21-20.07.38:005][  0]LogSkeletalMesh: Building Skeletal Mesh BaseCar...
+[2019.03.21-20.07.38:010][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/GameContent/VehicleAssets/BaseCar/BaseCar.BaseCar
+[2019.03.21-20.07.38:021][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2019.03.21-20.07.39:672][  0]LogTexture: Display: Building textures: SuperChristmastree_N (BC5, 2048X2048)
+[2019.03.21-20.07.39:672][  0]LogTexture: Display: Building textures: ChristmasLeafy (AutoDXT, 2048X2048)
+[2019.03.21-20.07.39:672][  0]LogTexture: Display: Building textures: ChocoBricks_N (BC5, 2048X2048)
+[2019.03.21-20.07.39:672][  0]LogTexture: Display: Building textures: ChocoBricks (AutoDXT, 2048X2048)
+[2019.03.21-20.07.39:677][  0]LogMaterial: Display: Missing cached shader map for material SnowyChristmasLeaf_MAT, compiling. 
+[2019.03.21-20.07.39:726][  0]LogMaterial: Display: Missing cached shader map for material PresentRed, compiling. 
+[2019.03.21-20.07.39:770][  0]LogMaterial: Display: Missing cached shader map for material Nat_Cloud, compiling. 
+[2019.03.21-20.07.39:925][  0]LogMaterial: Display: Missing cached shader map for material LightPost, compiling. 
+[2019.03.21-20.07.39:953][  0]LogMaterial: Display: Missing cached shader map for material Lamp_E, compiling. 
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: ChristmasLeafy_N (BC5, 2048X2048)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: SnowyChocoBricks_N (BC5, 2048X2048)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: SnowyChocoBricks (AutoDXT, 2048X2048)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: SnowySmooth_N (BGRA8, 2043X2043)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: SnowySmooth (BGRA8, 2043X2043)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: WoodTrunk_N (BGRA8, 2043X2043)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: WoodTrunk (BGRA8, 2043X2043)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: water_N (BC5, 1024X1024)
+[2019.03.21-20.07.42:430][  0]LogTexture: Display: Building textures: water_H (AutoDXT, 1024X1024)
+[2019.03.21-20.07.42:434][  0]LogMaterial: Display: Missing cached shader map for material CobbleRoad_MAT, compiling. 
+[2019.03.21-20.07.42:652][  0]LogMaterial: Display: Missing cached shader map for material SuperChristmasTree_MAT, compiling. 
+[2019.03.21-20.07.42:693][  0]LogMaterial: Display: Missing cached shader map for material SnowySwish_Mat, compiling. 
+[2019.03.21-20.07.42:781][  0]LogMaterial: Display: Missing cached shader map for material ChocoBrick_MAT, compiling. 
+[2019.03.21-20.07.43:593][  0]LogMaterial: Display: Missing cached shader map for material ChrismasLeaves_Mat, compiling. 
+[2019.03.21-20.07.43:632][  0]LogMaterial: Display: Missing cached shader map for material NormalSnow_MAT, compiling. 
+[2019.03.21-20.07.43:685][  0]LogMaterial: Display: Missing cached shader map for material SnowySmooth_MAT, compiling. 
+[2019.03.21-20.07.43:723][  0]LogMaterial: Display: Missing cached shader map for material Water_Mat, compiling. 
+[2019.03.21-20.07.43:936][  0]LogMaterial: Display: Missing cached shader map for material SnowyChocoBricks_MAT, compiling. 
+[2019.03.21-20.07.43:978][  0]LogMaterial: Display: Missing cached shader map for material Snowfall_Unlit_Mat, compiling. 
+[2019.03.21-20.07.44:010][  0]LogMaterial: Display: Missing cached shader map for material Snowfall_Mat_Effect, compiling. 
+[2019.03.21-20.07.44:130][  0]LogMaterial: Display: Missing cached shader map for material WoodTrunk_Mat, compiling. 
+[2019.03.21-20.07.44:176][  0]LogStaticMesh: Building static mesh RoadStraight02...
+[2019.03.21-20.07.44:190][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/RoadStraight02.RoadStraight02
+[2019.03.21-20.07.44:197][  0]LogStaticMesh: Building static mesh RoadStraight...
+[2019.03.21-20.07.44:203][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/RoadStraight.RoadStraight
+[2019.03.21-20.07.44:206][  0]LogStaticMesh: Building static mesh Present...
+[2019.03.21-20.07.44:211][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Present.Present
+[2019.03.21-20.07.44:214][  0]LogStaticMesh: Building static mesh Octagon_Groundpiece...
+[2019.03.21-20.07.44:219][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Octagon_Groundpiece.Octagon_Groundpiece
+[2019.03.21-20.07.44:223][  0]LogStaticMesh: Building static mesh Lightpost...
+[2019.03.21-20.07.44:230][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Lightpost.Lightpost
+[2019.03.21-20.07.44:250][  0]LogStaticMesh: Building static mesh Ground_Oct...
+[2019.03.21-20.07.44:260][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Ground_Oct.Ground_Oct
+[2019.03.21-20.07.44:277][  0]LogStaticMesh: Building static mesh GnomeHouse_Convex_GnomeHouse_Roof...
+[2019.03.21-20.07.44:283][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/GnomeHouse_Convex_GnomeHouse_Roof.GnomeHouse_Convex_GnomeHouse_Roof
+[2019.03.21-20.07.44:285][  0]LogStaticMesh: Building static mesh GnomeHouse_Convex_GnomeHouse_Base...
+[2019.03.21-20.07.44:290][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Models/GnomeHouse_Convex_GnomeHouse_Base.GnomeHouse_Convex_GnomeHouse_Base
+[2019.03.21-20.07.44:293][  0]LogStaticMesh: Building static mesh Door...
+[2019.03.21-20.07.44:298][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Door.Door
+[2019.03.21-20.07.44:304][  0]LogStaticMesh: Building static mesh Castle_Cylinder002...
+[2019.03.21-20.07.44:315][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Castle_Cylinder002.Castle_Cylinder002
+[2019.03.21-20.07.44:327][  0]LogStaticMesh: Building static mesh Castle_Cone001...
+[2019.03.21-20.07.44:345][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Castle_Cone001.Castle_Cone001
+[2019.03.21-20.07.44:617][  0]LogShaderCompilers: Display: Shaders left to compile 1028
+[2019.03.21-20.07.44:623][  0]LogAIModule: Creating AISystem for world IslandRacing_Final_01
+[2019.03.21-20.07.45:063][  0]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2019.03.21-20.07.45:239][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.21-20.07.45:243][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.254ms to complete.
+[2019.03.21-20.07.45:243][  0]LogFileHelpers: Loading map 'IslandRacing_Final_01' took 12.907
+[2019.03.21-20.07.45:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-20.07.45:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-20.07.45:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-20.07.45:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-20.07.45:541][  0]LogCollectionManager: Loaded 0 collections in 0.001193 seconds
+[2019.03.21-20.07.45:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Collections/' took 0.01s
+[2019.03.21-20.07.45:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Developers/MarcusDiDomizio/Collections/' took 0.01s
+[2019.03.21-20.07.45:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Content/Collections/' took 0.01s
+[2019.03.21-20.07.45:607][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.03.21-20.07.45:628][  0]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2650 classes and 611 folders.
+[2019.03.21-20.07.45:643][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.21-20.07.45:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-20.07.45:793][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.21-20.07.45:824][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.03.21-20.07.45:915][  0]LogSlate: Took 0.001350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.21-20.07.45:924][  0]LogSlate: Took 0.001790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.21-20.07.45:938][  0]LogSlate: Took 0.001036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.21-20.07.46:115][  0]LogRenderer: Reallocating scene render targets to support 1032x516 Format 9 NumSamples 1 (Frame:1).
+[2019.03.21-20.07.46:916][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.21-20.07.46:916][  0]LogLoad: (Engine Initialization) Total time: 26.69 seconds
+[2019.03.21-20.07.46:916][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.21-20.07.47:025][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.03.21-20.07.47:051][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.21-20.07.47:093][  0]LogSlate: Took 0.008161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.21-20.07.47:560][  4]LogAssetRegistry: Asset discovery search completed in 23.3575 seconds
+[2019.03.21-20.07.47:569][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.21-20.07.47:569][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000116 seconds (updated 0 objects)
+[2019.03.21-20.07.48:079][  9]LogShaderCompilers: Display: Shaders left to compile 1018
+[2019.03.21-20.07.52:205][190]LogShaderCompilers: Display: Shaders left to compile 1008
+[2019.03.21-20.07.52:593][207]LogShaderCompilers: Display: Shaders left to compile 998
+[2019.03.21-20.07.53:915][265]LogShaderCompilers: Display: Shaders left to compile 988
+[2019.03.21-20.07.56:300][368]LogShaderCompilers: Display: Shaders left to compile 978
+[2019.03.21-20.07.58:478][460]LogShaderCompilers: Display: Shaders left to compile 968
+[2019.03.21-20.08.00:379][540]LogShaderCompilers: Display: Shaders left to compile 958
+[2019.03.21-20.08.01:551][587]LogShaderCompilers: Display: Shaders left to compile 948
+[2019.03.21-20.08.02:973][645]LogShaderCompilers: Display: Shaders left to compile 938
+[2019.03.21-20.08.05:032][731]LogShaderCompilers: Display: Shaders left to compile 928
+[2019.03.21-20.08.05:296][742]LogShaderCompilers: Display: Shaders left to compile 918
+[2019.03.21-20.08.07:254][822]LogShaderCompilers: Display: Shaders left to compile 908
+[2019.03.21-20.08.08:843][891]LogShaderCompilers: Display: Shaders left to compile 898
+[2019.03.21-20.08.09:246][911]LogShaderCompilers: Display: Shaders left to compile 888
+[2019.03.21-20.08.11:469][ 19]LogShaderCompilers: Display: Shaders left to compile 878
+[2019.03.21-20.08.11:711][ 31]LogShaderCompilers: Display: Shaders left to compile 868
+[2019.03.21-20.08.12:962][ 94]LogShaderCompilers: Display: Shaders left to compile 858
+[2019.03.21-20.08.15:881][234]LogShaderCompilers: Display: Shaders left to compile 848
+[2019.03.21-20.08.16:432][261]LogShaderCompilers: Display: Shaders left to compile 838
+[2019.03.21-20.08.18:077][333]LogShaderCompilers: Display: Shaders left to compile 828
+[2019.03.21-20.08.20:063][392]LogShaderCompilers: Display: Shaders left to compile 818
+[2019.03.21-20.08.20:387][408]LogShaderCompilers: Display: Shaders left to compile 808
+[2019.03.21-20.08.21:689][473]LogShaderCompilers: Display: Shaders left to compile 798
+[2019.03.21-20.08.23:436][556]LogShaderCompilers: Display: Shaders left to compile 788
+[2019.03.21-20.08.26:079][686]LogShaderCompilers: Display: Shaders left to compile 778
+[2019.03.21-20.08.26:079][686]LogShaderCompilers: Display: Shaders left to compile 768
+[2019.03.21-20.08.27:218][740]LogShaderCompilers: Display: Shaders left to compile 758
+[2019.03.21-20.08.28:941][822]LogShaderCompilers: Display: Shaders left to compile 748
+[2019.03.21-20.08.30:543][903]LogShaderCompilers: Display: Shaders left to compile 738
+[2019.03.21-20.08.30:740][913]LogShaderCompilers: Display: Shaders left to compile 728
+[2019.03.21-20.08.32:496][  1]LogShaderCompilers: Display: Shaders left to compile 718
+[2019.03.21-20.08.33:052][ 28]LogShaderCompilers: Display: Shaders left to compile 708
+[2019.03.21-20.08.34:394][ 98]LogShaderCompilers: Display: Shaders left to compile 698
+[2019.03.21-20.08.34:414][ 99]LogShaderCompilers: Display: Shaders left to compile 688
+[2019.03.21-20.08.36:616][202]LogShaderCompilers: Display: Shaders left to compile 678
+[2019.03.21-20.08.39:515][342]LogShaderCompilers: Display: Shaders left to compile 668
+[2019.03.21-20.08.41:561][441]LogShaderCompilers: Display: Shaders left to compile 658
+[2019.03.21-20.08.41:779][453]LogShaderCompilers: Display: Shaders left to compile 648
+[2019.03.21-20.08.42:115][469]LogShaderCompilers: Display: Shaders left to compile 638
+[2019.03.21-20.08.43:732][544]LogShaderCompilers: Display: Shaders left to compile 628
+[2019.03.21-20.08.46:025][655]LogShaderCompilers: Display: Shaders left to compile 618
+[2019.03.21-20.08.47:658][720]LogSlate: Window 'Message Log' being destroyed
+[2019.03.21-20.08.47:736][720]LogSlate: Window 'Message Log' being destroyed
+[2019.03.21-20.08.47:855][722]LogShaderCompilers: Display: Shaders left to compile 608
+[2019.03.21-20.08.48:462][752]LogShaderCompilers: Display: Shaders left to compile 598
+[2019.03.21-20.08.50:103][841]LogShaderCompilers: Display: Shaders left to compile 588
+[2019.03.21-20.08.51:583][921]LogShaderCompilers: Display: Shaders left to compile 578
+[2019.03.21-20.08.51:697][927]LogShaderCompilers: Display: Shaders left to compile 568
+[2019.03.21-20.08.52:071][942]LogShaderCompilers: Display: Shaders left to compile 558
+[2019.03.21-20.08.53:417][ 11]LogShaderCompilers: Display: Shaders left to compile 548
+[2019.03.21-20.08.54:574][ 76]LogShaderCompilers: Display: Shaders left to compile 538
+[2019.03.21-20.08.54:639][ 80]LogShaderCompilers: Display: Shaders left to compile 528
+[2019.03.21-20.08.56:098][163]LogShaderCompilers: Display: Shaders left to compile 518
+[2019.03.21-20.08.59:325][327]LogShaderCompilers: Display: Shaders left to compile 508
+[2019.03.21-20.08.59:719][347]LogShaderCompilers: Display: Shaders left to compile 498
+[2019.03.21-20.09.00:628][391]LogShaderCompilers: Display: Shaders left to compile 488
+[2019.03.21-20.09.00:687][395]LogShaderCompilers: Display: Shaders left to compile 478
+[2019.03.21-20.09.03:780][527]LogShaderCompilers: Display: Shaders left to compile 468
+[2019.03.21-20.09.04:577][569]LogShaderCompilers: Display: Shaders left to compile 458
+[2019.03.21-20.09.04:998][591]LogShaderCompilers: Display: Shaders left to compile 448
+[2019.03.21-20.09.06:428][667]LogShaderCompilers: Display: Shaders left to compile 438
+[2019.03.21-20.09.07:586][726]LogShaderCompilers: Display: Shaders left to compile 428
+[2019.03.21-20.09.08:740][789]LogShaderCompilers: Display: Shaders left to compile 418
+[2019.03.21-20.09.08:900][797]LogShaderCompilers: Display: Shaders left to compile 408
+[2019.03.21-20.09.10:220][872]LogShaderCompilers: Display: Shaders left to compile 398
+[2019.03.21-20.09.14:256][ 10]LogShaderCompilers: Display: Shaders left to compile 388
+[2019.03.21-20.09.14:770][ 30]LogShaderCompilers: Display: Shaders left to compile 378
+[2019.03.21-20.09.15:354][ 52]LogShaderCompilers: Display: Shaders left to compile 368
+[2019.03.21-20.09.15:459][ 56]LogShaderCompilers: Display: Shaders left to compile 358
+[2019.03.21-20.09.18:519][159]LogShaderCompilers: Display: Shaders left to compile 348
+[2019.03.21-20.09.19:320][188]LogShaderCompilers: Display: Shaders left to compile 338
+[2019.03.21-20.09.20:509][232]LogShaderCompilers: Display: Shaders left to compile 328
+[2019.03.21-20.09.21:189][257]LogShaderCompilers: Display: Shaders left to compile 318
+[2019.03.21-20.09.24:392][370]LogShaderCompilers: Display: Shaders left to compile 308
+[2019.03.21-20.09.24:766][384]LogShaderCompilers: Display: Shaders left to compile 298
+[2019.03.21-20.09.24:855][388]LogShaderCompilers: Display: Shaders left to compile 288
+[2019.03.21-20.09.26:601][459]LogShaderCompilers: Display: Shaders left to compile 278
+[2019.03.21-20.09.27:791][507]LogShaderCompilers: Display: Shaders left to compile 268
+[2019.03.21-20.09.29:631][580]LogShaderCompilers: Display: Shaders left to compile 258
+[2019.03.21-20.09.30:667][623]LogShaderCompilers: Display: Shaders left to compile 248
+[2019.03.21-20.09.31:097][640]LogShaderCompilers: Display: Shaders left to compile 238
+[2019.03.21-20.09.32:288][679]LogShaderCompilers: Display: Shaders left to compile 228
+[2019.03.21-20.09.32:484][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-20.09.33:535][740]LogShaderCompilers: Display: Shaders left to compile 218
+[2019.03.21-20.09.34:433][788]LogShaderCompilers: Display: Shaders left to compile 208
+[2019.03.21-20.09.38:242][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-20.09.38:283][947]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.03.21-20.09.38:291][947]Candidate modules for hot reload:
+[2019.03.21-20.09.38:291][947]  TwistedMario
+[2019.03.21-20.09.38:291][947]Launching UnrealBuildTool... [D:/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwistedMario,8915 Win64 Development -TargetType=Editor -Project="C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/TwistedMario.uproject" -canskiplink "C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/TwistedMario.uproject" ]
+[2019.03.21-20.09.38:300][947]Warning: Starting HotReload took  0.0s.
+[2019.03.21-20.09.52:453][644]LogShaderCompilers: Display: Shaders left to compile 198
+[2019.03.21-20.09.53:389][696]CompilerResultsLog: New page: Compilation - Mar 21, 2019, 12:09:53 PM
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Marcus Di Domizio\Documents\GitHub\Twisted-Mario).
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Creating makefile for hot reloading TwistedMarioEditor (no existing makefile)
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Target is up to date
+[2019.03.21-20.09.53:390][696]CompilerResultsLog: Total build time: 14.34 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.03.21-20.09.53:390][696]LogMainFrame: MainFrame: Module compiling took 15.108 seconds
+[2019.03.21-20.09.53:439][696]LogContentBrowser: Native class hierarchy populated in 0.0191 seconds. Added 2651 classes and 613 folders.
+[2019.03.21-20.09.53:507][696]Display: HotReload took 15.2s.
+[2019.03.21-20.10.02:842][213]LogShaderCompilers: Display: Shaders left to compile 188
+[2019.03.21-20.10.07:887][511]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.03.21-20.10.11:574][732]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.03.21-20.10.14:838][931]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.03.21-20.10.18:103][126]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.03.21-20.10.21:311][319]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.03.21-20.10.22:314][379]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.03.21-20.10.24:201][497]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.03.21-20.10.27:586][702]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.21-20.10.28:265][743]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.21-20.10.31:366][929]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.21-20.10.32:051][969]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.21-20.10.38:407][357]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.21-20.10.39:964][451]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.21-20.10.42:080][560]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.21-20.10.44:054][630]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.21-20.10.47:186][728]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.21-20.10.47:768][738]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.21-20.10.50:824][851]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.21-20.10.56:664][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.21-20.10.59:654][562]MapCheck: New page: Map Check
+[2019.03.21-20.10.59:678][562]LightingResults: New page: Lighting Build - Mar 21, 2019, 12:10:59 PM
+[2019.03.21-20.10.59:756][562]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.21-20.10.59:967][562]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.21-20.10.59:986][562]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.21-20.11.01:020][562]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.21-20.11.01:021][562]LogSwarmInterface: [TryOpenConnection] Local Process ID is 25020
+[2019.03.21-20.11.04:110][562]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.03.21-20.11.04:130][562]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.21-20.11.04:130][562]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.21-20.11.04:130][562]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.21-20.11.04:130][562]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.21-20.11.04:130][562]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.21-20.11.04:433][562]LogEditorBuildUtils: Build time 0:04
+[2019.03.21-20.11.04:474][563]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowySwish_Mat, compiling. 
+[2019.03.21-20.11.04:484][563]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowySwish_Mat, compiling. 
+[2019.03.21-20.11.04:494][564]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.21-20.11.04:494][564]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.21-20.11.04:523][565]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CobbleRoad_MAT, compiling. 
+[2019.03.21-20.11.04:533][565]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.21-20.11.04:533][565]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CobbleRoad_MAT, compiling. 
+[2019.03.21-20.11.04:546][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.21-20.11.04:581][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Water_Mat_Ins, compiling. 
+[2019.03.21-20.11.04:594][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Water_Mat_Ins, compiling. 
+[2019.03.21-20.11.04:627][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NormalSnow_MAT_Inst, compiling. 
+[2019.03.21-20.11.04:644][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NormalSnow_MAT_Inst, compiling. 
+[2019.03.21-20.11.04:682][569]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ChocoBrick_MAT_Inst, compiling. 
+[2019.03.21-20.11.04:698][569]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ChocoBrick_MAT_Inst, compiling. 
+[2019.03.21-20.11.04:738][570]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowyChocoBricks_MAT_Inst, compiling. 
+[2019.03.21-20.11.04:751][570]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowyChocoBricks_MAT_Inst, compiling. 
+[2019.03.21-20.11.04:832][572]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentRed, compiling. 
+[2019.03.21-20.11.04:850][572]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentRed, compiling. 
+[2019.03.21-20.11.04:892][573]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentBlue_Inst, compiling. 
+[2019.03.21-20.11.04:908][573]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentBlue_Inst, compiling. 
+[2019.03.21-20.11.04:937][574]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentGreen_Inst, compiling. 
+[2019.03.21-20.11.04:948][574]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentGreen_Inst, compiling. 
+[2019.03.21-20.11.04:970][575]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentCyan_Inst, compiling. 
+[2019.03.21-20.11.04:983][575]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentCyan_Inst, compiling. 
+[2019.03.21-20.11.05:001][576]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentPurple_Inst, compiling. 
+[2019.03.21-20.11.05:012][576]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PresentPurple_Inst, compiling. 
+[2019.03.21-20.11.05:058][578]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LightPost, compiling. 
+[2019.03.21-20.11.05:075][578]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LightPost, compiling. 
+[2019.03.21-20.11.05:101][579]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WoodTrunk_Small_Inst, compiling. 
+[2019.03.21-20.11.05:123][579]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WoodTrunk_Small_Inst, compiling. 
+[2019.03.21-20.11.05:151][580]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SuperChristmasTree_MAT_Inst, compiling. 
+[2019.03.21-20.11.05:170][580]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SuperChristmasTree_MAT_Inst, compiling. 
+[2019.03.21-20.11.05:256][582]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.21-20.11.05:256][582]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.21-20.11.05:256][582]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.21-20.11.05:271][582]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.21-20.11.05:271][582]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Nat_Cloud, compiling. 
+[2019.03.21-20.11.05:285][582]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Nat_Cloud, compiling. 
+[2019.03.21-20.11.05:372][583]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowyChristmasLeaf_MAT, compiling. 
+[2019.03.21-20.11.05:383][583]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowyChristmasLeaf_MAT, compiling. 
+[2019.03.21-20.11.05:439][584]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ChristmasLeaves_Inst, compiling. 
+[2019.03.21-20.11.05:452][584]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ChristmasLeaves_Inst, compiling. 
+[2019.03.21-20.11.05:515][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowySmooth_MAT_Inst, compiling. 
+[2019.03.21-20.11.05:533][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SnowySmooth_MAT_Inst, compiling. 
+[2019.03.21-20.11.05:563][587]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lamp_E, compiling. 
+[2019.03.21-20.11.05:583][587]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lamp_E, compiling. 
+[2019.03.21-20.11.09:800][596]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.21-20.11.09:800][596]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.21-20.11.09:800][596]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.21-20.13.32:427][675]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.33:403][727]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.33:403][727]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.33:403][727]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.34:268][773]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.35:013][814]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.35:014][814]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.35:014][814]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.35:901][859]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.36:782][907]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.36:782][907]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.36:782][907]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.37:603][952]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.38:344][993]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.38:344][993]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.38:344][993]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.39:346][ 46]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.39:875][ 76]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.39:875][ 76]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.39:875][ 76]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.40:460][108]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.41:128][144]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.41:128][144]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.41:128][144]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.42:507][218]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.42:839][236]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.42:839][236]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.42:839][236]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.43:359][265]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.43:827][291]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.43:827][291]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.43:827][291]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.44:327][319]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.44:751][345]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.44:751][345]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.44:751][345]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.45:342][377]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.45:682][397]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.45:682][397]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.45:704][398]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.46:310][432]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.46:310][432]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.46:332][433]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.46:559][446]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.47:394][492]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.48:128][532]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.48:139][533]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.48:140][533]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.48:493][552]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.49:351][599]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.49:351][599]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.49:351][599]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.49:686][618]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.50:406][657]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.50:406][657]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.50:406][657]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.50:960][689]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.51:774][734]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.51:774][734]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.51:774][734]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.52:081][751]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.52:679][784]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.52:679][784]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.52:679][784]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.53:054][805]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.53:928][853]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.53:928][853]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.53:928][853]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.54:626][890]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.55:917][959]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.55:917][959]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.55:928][960]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.56:430][985]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.57:249][ 29]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.57:249][ 29]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.57:249][ 29]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.57:911][ 65]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.13.59:144][131]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.13.59:144][131]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.13.59:144][131]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.13.59:675][160]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.00:515][205]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.00:515][205]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.00:515][205]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.01:480][257]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.01:480][257]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.01:480][257]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.02:244][296]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.03:010][339]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.03:011][339]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.03:011][339]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.03:646][373]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.25:886][400]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.25:886][400]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.25:886][400]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.26:551][402]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.27:232][404]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.27:232][404]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.27:232][404]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.27:566][405]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.27:899][406]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.28:243][407]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.28:243][407]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.28:576][408]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.29:257][410]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.29:257][410]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.29:257][410]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.14.29:584][411]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.14.29:922][412]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.14.29:922][412]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.14.29:922][412]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.15.38:784][617]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.16.16:491][856]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.16.16:492][856]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.16.16:492][856]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.16.17:499][893]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.16.19:386][979]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.16.19:386][979]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.16.19:386][979]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.16.26:555][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-20.17.41:797][713]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.54:542][751]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.55:213][753]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.17.55:213][753]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.17.55:213][753]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.17.55:553][754]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.55:886][755]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.17.55:886][755]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.17.55:886][755]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.17.56:555][757]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.57:228][759]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.17.57:228][759]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.17.57:228][759]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.17.57:568][760]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.57:897][761]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.17.57:897][761]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.17.57:897][761]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.17.58:244][762]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.58:910][764]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.17.58:910][764]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.17.58:910][764]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.17.59:239][765]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.17.59:581][766]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.17.59:581][766]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.17.59:581][766]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.00:253][768]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.00:923][770]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.00:923][770]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.00:923][770]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.01:263][771]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.01:595][772]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.01:595][772]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.01:595][772]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.02:274][774]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.02:602][775]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.02:602][775]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.02:602][775]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.03:272][777]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.03:615][778]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.03:615][778]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.03:615][778]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.04:282][780]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.04:951][782]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.04:951][782]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.04:951][782]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.04:951][782]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.05:632][784]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.05:632][784]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.05:632][784]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.05:633][784]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.05:633][784]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.05:633][784]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.05:971][785]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.05:971][785]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.06:307][786]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.06:647][787]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.06:647][787]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.06:647][787]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.06:647][787]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.06:647][787]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.06:647][787]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.06:976][788]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.06:976][788]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.07:314][789]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.07:314][789]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.07:314][789]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.07:977][791]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.07:977][791]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.07:977][791]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.07:977][791]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.08:319][792]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.08:648][793]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.08:648][793]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.08:648][793]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.08:986][794]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.08:986][794]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.08:986][794]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.08:986][794]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.09:657][796]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.09:657][796]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.09:657][796]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.09:657][796]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.09:995][797]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.09:995][797]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.09:995][797]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.10:332][798]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.10:664][799]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.11:003][800]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.11:003][800]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.11:003][800]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.11:339][801]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.11:339][801]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.11:339][801]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.11:670][802]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.12:008][803]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.12:348][804]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.12:348][804]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.12:348][804]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.12:677][805]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.12:677][805]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.12:677][805]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.12:677][805]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.13:350][807]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.13:350][807]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.13:350][807]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.13:350][807]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.13:689][808]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.13:689][808]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.13:689][808]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.14:347][810]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.14:682][811]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.14:682][811]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.14:682][811]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.14:682][811]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.14:682][811]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.14:682][811]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.15:021][812]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.15:349][813]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.15:690][814]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.15:691][814]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.15:691][814]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.16:020][815]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.16:020][815]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.16:020][815]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.16:360][816]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.16:698][817]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.17:036][818]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.17:036][818]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.17:036][818]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.17:365][819]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.17:365][819]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.17:365][819]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.17:705][820]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.18:045][821]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.18:719][823]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.18:719][823]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.18:719][823]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.19:379][825]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.19:379][825]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.19:379][825]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.19:718][826]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.20:387][828]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.20:719][829]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.21:390][831]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.22:070][833]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.22:070][833]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.22:070][833]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.22:409][834]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.23:411][837]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.23:411][837]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.23:411][837]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.23:757][838]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.23:757][838]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.23:757][838]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.24:436][840]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.24:753][841]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.24:753][841]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.24:753][841]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.25:432][843]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.25:759][844]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.25:759][844]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.25:759][844]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.26:098][845]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.26:757][847]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.26:757][847]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.26:757][847]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.27:100][848]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.27:440][849]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.27:440][849]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.27:440][849]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.28:104][851]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.31:801][862]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.31:801][862]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.31:801][862]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.33:488][867]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.33:488][867]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.33:488][867]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.33:831][868]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.34:491][870]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.34:491][870]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.34:491][870]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.35:163][872]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.35:833][874]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.35:833][874]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.35:833][874]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.36:503][876]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.37:500][879]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.37:500][879]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.37:500][879]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.37:842][880]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.38:517][882]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.38:517][882]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.38:517][882]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.39:173][884]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.39:856][886]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.39:856][886]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.39:856][886]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.40:526][888]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.41:188][890]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.41:188][890]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.41:188][890]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.41:523][891]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.42:203][893]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.42:203][893]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.42:203][893]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.43:884][898]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.18.44:227][899]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.44:227][899]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.44:227][899]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.47:249][908]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has wrapping UVs.
+[2019.03.21-20.18.47:249][908]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Base Object has overlapping UVs.
+[2019.03.21-20.18.47:249][908]LightingResults: GnomeHouse_Convex_GnomeHouse_Base Lightmap UV are overlapping by 69.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.21-20.18.47:929][910]LightingResults: Warning: GnomeHouse_Convex_GnomeHouse_Roof Object has wrapping UVs.
+[2019.03.21-20.20.31:017][217]Job is a success!
+[2019.03.21-20.20.31:357][218]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.258s
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport:      BrickData 1280x30x5 = 7.5Mb (trimmed 3.9Mb due to 0.010000 MinBrickError)
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport:          1: 11.9% covering 35.4% of volume
+[2019.03.21-20.20.31:662][218]LogVolumetricLightmapImport:          2: 87.5% covering 4.0% of volume
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:650][218]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:651][218]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 512X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_37 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_39 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_40 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_41 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_42 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_43 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_44 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_45 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:652][218]LogTexture: Display: Building textures: SkyOcclusion0_46 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_47 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_48 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_49 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_50 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_51 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_52 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_53 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_54 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_55 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_56 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_57 (AutoDXT, 256X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_58 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 128X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_59 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_60 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_61 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_62 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_63 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_64 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_65 (AutoDXT, 1024X512)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 1024X1024)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_66 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_67 (AutoDXT, 256X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 256X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 256X256)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: SkyOcclusion0_68 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:653][218]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_69 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_70 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_71 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_72 (AutoDXT, 512X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 512X512)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 512X512)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_73 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_74 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_75 (AutoDXT, 256X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_76 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_77 (AutoDXT, 256X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_78 (AutoDXT, 256X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_79 (AutoDXT, 128X64)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 128X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_81 (AutoDXT, 256X128)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 256X256)
+[2019.03.21-20.21.08:654][218]LogTexture: Display: Building textures: SkyOcclusion0_80 (AutoDXT, 128X64)
+[2019.03.21-20.21.09:125][218]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2019.03.21-20.21.09:125][218]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.03.21-20.21.09:125][218]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.03.21-20.21.09:125][218]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.03.21-20.21.09:125][218]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.03.21-20.21.09:125][218]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2019.03.21-20.21.09:324][218]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X512)
+[2019.03.21-20.21.09:324][218]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X64)
+[2019.03.21-20.21.09:324][218]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X512)
+[2019.03.21-20.21.09:524][218]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2019.03.21-20.21.09:524][218]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2019.03.21-20.21.09:524][218]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2019.03.21-20.21.09:524][218]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X512)
+[2019.03.21-20.21.09:524][218]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2019.03.21-20.21.09:724][218]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X512)
+[2019.03.21-20.21.09:724][218]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 1024X256)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X512)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X1024)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 512X64)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X256)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2019.03.21-20.21.09:924][218]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X128)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 512X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 1024X128)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 64X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 512X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X256)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X256)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 128X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 512X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X256)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 512X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 64X64)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 128X32)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 128X32)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 128X32)
+[2019.03.21-20.21.10:054][218]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X128)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 128X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 128X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 512X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 128X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 128X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 512X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 512X32)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 1024X64)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 1024X64)
+[2019.03.21-20.21.10:055][218]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 1024X512)
+[2019.03.21-20.21.10:212][218]Lightmass on MARCUSLAPTOP: 9:57 min total, 352 ms importing, 1.13 sec setup, 57.7 sec photons, 8:58 min processing, 0 ms extra exporting [6941/6941 mappings]. Threads: 1:02:48 hours total, 46:56 min processing.
+[2019.03.21-20.21.10:341][218]LogStaticLightingSystem: Illumination: 10:10 min (33.0 sec encoding lightmaps, 1.39 sec encoding shadowmaps)
+[2019.03.21-20.21.10:342][218]LogStaticLightingSystem: Lightmap texture memory:  154.1 MB (154.1 MB streaming, 0.0 MB non-streaming), 162 textures
+[2019.03.21-20.21.10:342][218]LogStaticLightingSystem: Shadowmap texture memory: 26.9 MB (26.9 MB streaming, 0.0 MB non-streaming), 57 textures
+[2019.03.21-20.21.10:563][218]DumpUnbuiltLightIteractions
+[2019.03.21-20.21.10:563][218]Lights with unbuilt interactions: 0
+[2019.03.21-20.21.10:563][218]
+[2019.03.21-20.21.10:563][218]Primitives with unbuilt interactions: 0
+[2019.03.21-20.21.10:638][219]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.21-20.21.10:639][219]MapCheck: New page: IslandRacing_Final_01 - Mar 21, 2019, 12:21:10 PM
+[2019.03.21-20.21.10:872][219]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 232.315ms to complete.
+[2019.03.21-20.21.27:753][248]LogSavePackage: Moving 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/IslandRacing_Final_01_Auto189FB541B4CBC9120344E9784B1B8AF8A.tmp' to 'C:/Users/Marcus Di Domizio/Documents/GitHub/Twisted-Mario/TwistedMario/Saved/Autosaves/Game/Maps/IslandRacing_Final_01_Auto1.umap'
+[2019.03.21-20.21.27:760][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/IslandRacing_Final_01' took 7.105
+[2019.03.21-20.21.27:760][248]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.105
+[2019.03.21-20.21.46:999][306]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.122 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.21-20.23.24:073][737]LogSlate: Window 'Message Log' being destroyed
+[2019.03.21-20.23.24:082][737]LogSlate: Window 'Message Log' being destroyed
+[2019.03.21-20.23.49:194][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.21-20.23.57:219][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeHouse_Convex_GnomeHouse_Roof45)
+[2019.03.21-20.24.02:839][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Present167)
+[2019.03.21-20.24.03:441][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Present166)
+[2019.03.21-20.24.03:960][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeHouse_Convex_GnomeHouse_Roof46)
+[2019.03.21-20.24.04:677][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Present164)
+[2019.03.21-20.24.05:067][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Present165)
+[2019.03.21-20.24.05:495][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Present162)
+[2019.03.21-20.24.07:231][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone302)
+[2019.03.21-20.24.07:946][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder302)
+[2019.03.21-20.24.09:513][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door52)
+[2019.03.21-20.24.10:723][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeHouse_Convex_GnomeHouse_Roof47)
+[2019.03.21-20.24.40:113][470]LogEditorViewport: Clicking on Actor (LMB): BP_HoverCar_C (BP_HoverCar)
+[2019.03.21-20.24.42:537][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-20.24.42:638][620]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.21-20.24.42:652][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01' with GeneratedClass '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01_C' with ClassGeneratedBy '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01'
+[2019.03.21-20.24.42:652][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.21-20.24.42:652][620]PIE: New page: PIE session: IslandRacing_Final_01 (Mar 21, 2019, 12:24:42 PM)
+[2019.03.21-20.24.42:665][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandRacing_Final_01
+[2019.03.21-20.24.43:105][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.439317s)
+[2019.03.21-20.24.43:105][620]LogAIModule: Creating AISystem for world IslandRacing_Final_01
+[2019.03.21-20.24.43:106][620]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2019.03.21-20.24.43:107][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01 to /Game/Maps/UEDPIE_0_IslandRacing_Final_01.IslandRacing_Final_01 (0.441953s)
+[2019.03.21-20.24.43:184][620]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.21-20.24.43:269][620]LogInit: FAudioDevice initialized.
+[2019.03.21-20.24.43:313][620]LogLoad: Game class is 'GameModeBase'
+[2019.03.21-20.24.43:486][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandRacing_Final_01.IslandRacing_Final_01 up for play (max tick rate 0) at 2019.03.21-16.24.43
+[2019.03.21-20.24.43:507][620]LogWorld: Bringing up level for play took: 0.178422
+[2019.03.21-20.24.43:541][620]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.03.21-20.24.43:547][620]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_IslandRacing_Final_01 1.719
+[2019.03.21-20.24.43:548][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01' with GeneratedClass '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01_C' with ClassGeneratedBy '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01'
+[2019.03.21-20.24.43:550][620]LogBlueprintUserMessages: [HoverComponent3] 
+[2019.03.21-20.24.43:550][620]LogBlueprintUserMessages: [HoverComponent2] 
+[2019.03.21-20.24.43:550][620]LogBlueprintUserMessages: [HoverComponent1] 
+[2019.03.21-20.24.43:550][620]LogBlueprintUserMessages: [HoverComponent4] 
+[2019.03.21-20.24.43:610][621]LogBlueprintUserMessages: [HoverComponent3] 
+[2019.03.21-20.24.43:610][621]LogBlueprintUserMessages: [HoverComponent2] 
+[2019.03.21-20.24.43:610][621]LogBlueprintUserMessages: [HoverComponent1] 
+[2019.03.21-20.24.43:610][621]LogBlueprintUserMessages: [HoverComponent4] 
+[2019.03.21-20.24.54:696][658]LogBlueprintUserMessages: [MyCheckpoint_2] Hello
+[2019.03.21-20.35.15:645][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01' with GeneratedClass '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01_C' with ClassGeneratedBy '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01'
+[2019.03.21-20.35.15:647][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-20.35.15:836][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-20.35.15:841][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01' with GeneratedClass '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01_C' with ClassGeneratedBy '/Game/Maps/IslandRacing_Final_01.IslandRacing_Final_01:PersistentLevel.IslandRacing_Final_01'
+[2019.03.21-20.35.15:945][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-20.35.16:014][626]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.03.21-20.42.01:077][842]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/IslandRacing_Final_01' took 0.094
+[2019.03.21-20.47.43:953][889]LogEditorViewport: Clicking on Actor (LMB): Emitter (Snowfall_Particle9)
+[2019.03.21-20.47.51:692][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-20.47.58:289][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-20.48.57:456][187]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.21-20.48.57:475][187]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.03.21-20.48.57:476][187]LogD3D11RHI: [Aftermath] GDynamicRHI=0000016E84EC4180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.03.21-20.48.57:476][187]LogWindows: Windows GetLastError: The operation completed successfully. (0)
